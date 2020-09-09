@@ -1,7 +1,9 @@
 # super_qr_reader
 
-*This is a forked package from @hetian9288*
+*This is a forked package from @SeasonLeee*
+
 **This is a fork of the original project. In this fork I have fixed Cocoapods `.podspec` file, and removed hardcoded Chinese language so I wont get confused.**
+
 QR code (scan code &#x2F; picture) recognition （AndroidView&#x2F;UiKitView）
 
 # features:
