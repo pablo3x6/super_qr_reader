@@ -4,6 +4,8 @@
 
 QR code (scan code &#x2F; picture) recognition （AndroidView&#x2F;UiKitView）
 
+**This is a fork of the original project. In this fork I have fixed Cocoapods `.podspec` file, and removed hardcoded Chinese language so I wont get confused.**
+
 # features:
 - place the code inside the square frame to get the information from QR code
 - select QR code from your local library from the image picker inside the ScanView
